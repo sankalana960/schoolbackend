@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "schoolmanagementbackend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sankalana960/schoolbackend.git"
+  },
+  "author": "sankalana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sankalana960/schoolbackend/issues"
+  },
+  "homepage": "https://github.com/sankalana960/schoolbackend#readme",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mysql2": "^3.11.3"
+  }
+}
